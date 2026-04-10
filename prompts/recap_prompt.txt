@@ -1,0 +1,7 @@
+Write a short Boston Red Sox game recap.
+
+Use only the facts provided.
+Keep it conversational and clear.
+Mention the final score early.
+Highlight one hitter and one pitcher.
+Keep it under 300 words.
