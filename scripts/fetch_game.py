@@ -4,9 +4,12 @@ import csv
 file_path = "data/red_sox_games.csv"
 
 # Fake game data (just for testing)
+game_date = "2026-04-09"
+opponent = "Yankees"
+
 new_row = [
-    "2026-04-09",
-    "Yankees",
+    game_date,
+    opponent,
     "Home",
     "6",
     "3",
