@@ -6,7 +6,7 @@ file_path = "data/red_sox_games.csv"
 # Fake game data (just for testing)
 new_row = [
     "2026-04-09",
-    "Blue Jays",
+    "Yankees",
     "Home",
     "6",
     "3",
